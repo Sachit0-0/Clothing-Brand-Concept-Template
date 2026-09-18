@@ -119,7 +119,7 @@ export function PhilosophySection() {
               SS 2026 Collection
             </p>
             <p className="mt-6 leading-relaxed text-muted-foreground text-xl text-center">
-              Kathmandu &amp; Mustang are NEPALÉ&apos;s signature collections —
+              Kathmandu &amp; Mustang are NEPALÉ&apos;s signature collections ~
               modern silhouettes built from premium fabrics, carrying the quiet
               confidence of Nepal&apos;s landscape and culture.
             </p>
@@ -223,7 +223,7 @@ export function PhilosophySection() {
             SS 2026 Collection
           </p>
           <p className="mt-8 leading-relaxed text-muted-foreground text-2xl md:text-3xl text-center">
-            Kathmandu &amp; Mustang are NEPALÉ&apos;s signature collections —
+            Kathmandu &amp; Mustang are NEPALÉ&apos;s signature collections ~
             modern silhouettes built from premium fabrics, carrying the quiet
             confidence of Nepal&apos;s landscape and culture.
           </p>
